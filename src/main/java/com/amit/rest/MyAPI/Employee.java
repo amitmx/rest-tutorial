@@ -19,6 +19,6 @@ public class Employee
 	@Produces(MediaType.TEXT_PLAIN)
 	public String displayMessage()
 	{
-		return "Hello World this is my first page";
+		return "Hello world !";
 	}
 }
